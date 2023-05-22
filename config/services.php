@@ -33,12 +33,12 @@ return [
     'google' => [    
         'client_id' => '28380013924-bfde9glto0ksg6cjcme5uaidrc8dji0c.apps.googleusercontent.com',  
         'client_secret' => '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',  
-        'redirect' => '/google-callback' 
+        'redirect' => '/google-callback', 
     ],
     'facebook' => [    
         'client_id' => '3448057475459141',  
         'client_secret' =>'cd5074a74891ea44fd30059775e55613',  
-        'redirect' => 'https://pruebadevops2.azurewebsites.net/facebook-callback' 
+        'redirect' => 'https://pruebadevops2.azurewebsites.net/facebook-callback',
     ],
 
 ];
